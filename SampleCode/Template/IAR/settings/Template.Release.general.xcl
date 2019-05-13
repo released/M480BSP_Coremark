@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\Nu-Link\Nu-Link_IAR.dll" 
+
+"D:\SourceCode\_Avery_M480\M480BSP_Coremark\SampleCode\Template\IAR\Release\Exe\Template.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\flashloader\Nuvoton\M481_APROM.board" 
+
+
+
+
