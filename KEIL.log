@@ -1,0 +1,32 @@
+
+[2019-05-13 14:53:17.102] 
+[2019-05-13 14:53:17.102] CLK_GetCPUFreq : 192000000
+[2019-05-13 14:53:17.105] CLK_GetHCLKFreq : 192000000
+[2019-05-13 14:53:17.108] CLK_GetPCLK0Freq : 96000000
+[2019-05-13 14:53:17.110] CLK_GetPCLK1Freq : 96000000
+[2019-05-13 14:53:17.113] Coremark start (12000 ms) !
+[2019-05-13 14:53:40.956] 2K performance run parameters for coremark.
+[2019-05-13 14:53:40.961] CoreMark Size    : 666
+[2019-05-13 14:53:40.966] Total ticks      : 23842
+[2019-05-13 14:53:40.966] Total time (secs): 23.842000
+[2019-05-13 14:53:40.968] Iterations/Sec   : 503.313480
+[2019-05-13 14:53:40.972] Iterations       : 12000
+[2019-05-13 14:53:40.973] Compiler version : uVision 5.26.2.0
+[2019-05-13 14:53:40.976] Compiler flags   : --device DLM -O3 -Otime --apcs=interwork
+[2019-05-13 14:53:40.981] Memory location  : FLASH
+[2019-05-13 14:53:40.983] seedcrc          : 0xe9f5
+[2019-05-13 14:53:40.985] [0]crclist       : 0xe714
+[2019-05-13 14:53:40.989] [0]crcmatrix     : 0x1fd7
+[2019-05-13 14:53:40.991] [0]crcstate      : 0x8e3a
+[2019-05-13 14:53:40.994] [0]crcfinal      : 0xd340
+[2019-05-13 14:53:40.995] Correct operation validated. See README.md for run and reporting rules.
+[2019-05-13 14:53:41.002] CoreMark 1.0 : 503.313480 / uVision 5.26.2.0 --device DLM -O3 -Otime --apcs=interwork / FLASH
+[2019-05-13 14:53:41.010] In Hard Fault Handler
+[2019-05-13 14:53:41.013] r0  = 0x0
+[2019-05-13 14:53:41.013] r1  = 0x0
+[2019-05-13 14:53:41.016] r2  = 0xd
+[2019-05-13 14:53:41.016] r3  = 0x0
+[2019-05-13 14:53:41.018] r12 = 0x1630
+[2019-05-13 14:53:41.018] lr  = 0x2ac7
+[2019-05-13 14:53:41.034] pc  = 0x1434f8de
+[2019-05-13 14:53:41.034] psr = 0x41000000
