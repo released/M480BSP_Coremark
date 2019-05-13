@@ -1,6 +1,6 @@
 # M480BSP_Coremark
 
-down coremark source code from GitHub as below , 
+Download coremark source code from GitHub as below , 
 
 https://www.eembc.org/coremark/download.php
 
@@ -8,7 +8,7 @@ Porting step :
 
 - 1. Create folder named "CoreMark" in project , and put below file into folder : 
 
--- core_list_join.c , core_main.c , core_matrix.c , core_state.c  , core_util.c , coremark.h 
+core_list_join.c , core_main.c , core_matrix.c , core_state.c  , core_util.c , coremark.h 
 
 - 2. Put below file in project : core_portme.c , core_portme.h 
 
